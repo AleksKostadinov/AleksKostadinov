@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksandar.</h1>
-<h3 align="center">A passionate backend developer from Bulgaria.</h3>
+<h3 align="center"></h3>
 <br>
 - 🌱 I’m currently learning Python.
 <h4 align="left">Connect with me:</h4>
