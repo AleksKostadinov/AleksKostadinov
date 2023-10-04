@@ -4,7 +4,7 @@
 🌱 I’m currently learning Django & React.
 <h4 align="left">Connect with me:</h4>
 <div align="left" dir="auto">
-<a href="https://www.linkedin.com/in/александър-костадинов-270a6b11b/" rel="nofollow">
+<a href="https://www.linkedin.com/in/aleksandar-kostadinov-270a6b11b/" rel="nofollow">
 <img alt="Aleksandar Kostadinov's LinkedIn" width="27px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
 </a>
 <p align="left">
