@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksandar.</h1>
 <h3 align="center"></h3>
 <br>
-🌱 I’m currently learning Django & React.
+🌱 I’m currently learning Django.
 <h4 align="left">Connect with me:</h4>
 <div align="left" dir="auto">
 <a href="https://www.linkedin.com/in/aleksandar-kostadinov-270a6b11b/" rel="nofollow">
